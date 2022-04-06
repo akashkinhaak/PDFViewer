@@ -17,6 +17,6 @@ By <a href="https://akashkinhaak.github.io/portfilio">Aksash Kinha</a>
 <hr>
 
 Follow Me Up Here : <br>
-<a href= " #" > <img src=" " height="15" width="15"> Youtube </a> 
-<a href= " #" > <img src=" " height="15" width="15"> Youtube </a> 
-<a href= " #" > <img src=" " height="15" width="15"> Youtube </a?
+<a href= "https://www.youtube.com/channel/UC_8qig19f7fZ9LrAWYPATOQ" > <img src=" ./yt.jpg " height="15" width="15"> Youtube </a> 
+<a href= " https://t.me/akgames25" > <img src=" tele.jpg " height="15" width="15"> Telegram </a> 
+<a href= " https://github.com/akashkinhaak" > <img src=" git.jpg" height="15" width="15"> Github </a>
