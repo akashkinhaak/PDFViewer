@@ -15,7 +15,9 @@ By <a href="https://akashkinhaak.github.io/portfolio">Aksash Kinha</a>
 <b>4. </b>Can Add multiple Pages/Pdf with same syntax within same lib         <br>
 
 <hr>
-
+Download : Setup Code <a href="setup.zip"> Here </a> 
+<hr>
+<hr>
 Follow Me Up Here : <br>
 <a href= "https://www.youtube.com/channel/UC_8qig19f7fZ9LrAWYPATOQ" > <img src=" https://github.com/akashkinhaak/PDFViewer/blob/main/images/yt.jpg?raw=true " height="15" width="15"> Youtube </a> 
 <a href= "https://t.me/akgames25 " > <img src="images/tele.jpg " height="15" width="15" > Telegram </a> 
