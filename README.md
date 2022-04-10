@@ -15,7 +15,7 @@ By <a href="https://akashkinhaak.github.io/portfolio">Aksash Kinha</a>
 <b>4. </b>Can Add multiple Pages/Pdf with same syntax within same lib         <br>
 
 <hr>
-Download : Setup Code <a href="setup.zip"> Here </a> 
+Download : Setup Code <a href="setup.zip?raw=true"> Here </a> 
 <hr>
 <hr>
 Follow Me Up Here : <br>
