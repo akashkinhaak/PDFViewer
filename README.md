@@ -5,8 +5,10 @@ This is Basically A Public Repo For PDF Viewer Code Using Mozilaa JS (Venue JS) 
 By <a href="https://akashkinhaak.github.io/portfolio">Aksash Kinha</a>
 <hr>
 <br>
-<img src ="./images/src01.png"><br>
-<img src ="./images/src02.png">
+<h1>Preview </h1>
+<img src = "images/scr01.png "><br><hr>
+<h1> Main tools Included</h1>
+<img src = "images/scr02.png "><hr>
 <br>
 <hr>
 <b>#What it Includes :</b> 
@@ -21,7 +23,7 @@ Download : Setup Code <a href="setup.zip?raw=true"> Here </a>
 <hr>
 <hr>
 Follow Me Up Here : <br>
-<a href= "https://www.youtube.com/channel/UC_8qig19f7fZ9LrAWYPATOQ" >  <img src = "images/youtube.png " height="15" width="20" >  Youtube </a> 
-<a href= "https://t.me/akgames25 " > <img src = "images/tele.jpg " height="15" width="15" > Telegram </a> 
-<a href= "https://twitter.com/akashkinha01 " > <img src = "images/twitter.png " height="15" width="15" > Twitter </a> 
-<a href= "https://github.com/akashkinhaak " > <img src = "images/github.png " height="15" width="15" >  Github </a>
+<a href= "https://www.youtube.com/channel/UC_8qig19f7fZ9LrAWYPATOQ" >  <img src = "images/youtube.png " height="15" width="20" >  Youtube </a> <br>
+<a href= "https://t.me/akgames25 " > <img src = "images/tele.jpg " height="15" width="15" > Telegram </a>  <br>
+<a href= "https://twitter.com/akashkinha01 " > <img src = "images/twitter.png " height="15" width="15" > Twitter </a>  <br>
+<a href= "https://github.com/akashkinhaak " > <img src = "images/github.png " height="15" width="15" >  Github </a> <br>
