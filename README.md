@@ -2,7 +2,7 @@
 This is Basically A Public Repo For PDF Viewer Code Using Mozilaa JS (Venue JS) With Just Simple Files 
 
 <hr>
-By <a href="https://akashkinhaak.github.io/portfolio">Aksash Kinha</a>
+By <a href="https://akashkinhaak.github.io/portfolio">Akash Kinha</a>
 <hr>
 <br>
 <h1>Preview </h1>
